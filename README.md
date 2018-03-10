@@ -1,1 +1,1 @@
-# andrebot
+# This is my new and functional bot. I made it using JavaScript and json storage files. I gained much of my information for this bot from many sources, to many to compile. YOu canr reuse an of the code for your bot. Thank you for everything!
